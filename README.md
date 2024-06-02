@@ -1,6 +1,6 @@
 Instructions for each project is contained within their corresponding files.
 
-Repository includes four projects from Machine Learning with Python:
+Repository includes 5 projects from Machine Learning with Python:
   1. Boilerplate - Rock, Paper, Scissors
   2. Cat and Dog Image Classifier
   3. Book Recommendation using KNN
